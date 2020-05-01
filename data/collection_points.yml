@@ -1,7 +1,30 @@
-- name: Collection point name
-  subtitle: Non profit organisation
-  website: "https://blahblah.com"
-  donation_link: "https://blahblah.com"
-  image: 
+- name: Co-Operate 19 (Yaseen Youth Tours)
+  subtitle: Charity
+  website: https://www.muntadaaid.org/
+  donation_link: https://www.muntadaaid.org/donate/
+  image: https://scontent.flhr3-1.fna.fbcdn.net/v/t1.0-9/15202599_617296898453335_38544063131061202_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=bb-XO5nfcjMAX8RvoeX&_nc_ht=scontent.flhr3-1.fna&oh=2b4ff5ab20cecede8b8bc74d56eab807&oe=5ED1C39F
   description: |
-    blah blah
+    A new non-profit organisation that aims to inspire and empower Muslim youth through Umrah development programmes.
+- name: Al Nagashi Mosque and Community Centre (EMCA)
+  subtitle: Charity
+  website: https://emca.org.uk/
+  donation_link: https://emca.org.uk/donate/
+  image: https://emca.org.uk/wp-content/uploads/2019/10/logo.png
+  description: |
+    EMCA is a charity, which was founded in 1989 to meet the social, welfare and cultural/religious needs of the growing number of Eritrean immigrants to the United Kingdom, EMCA serves a large number of Eritreans in the UK.
+- name: West London Islamic Cultural Centre Mosque
+  subtitle: Charity
+  website: http://wlicc.org/
+  donation_link: http://wlicc.org/donate/
+  image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/5f/6f/a45f6f5a-83e9-27ec-5ab5-55fd833a6609/source/512x512bb.jpg
+  description: |
+    Established in the heart of the London Borough of Hammersmith & Fulham, we serve a local community of varying ages, backgrounds and abilities.
+- name: Hounslow Jamia Masjid and Islamic Centre
+  subtitle: Charity
+  website: http://www.hounslowmasjid.co.uk/
+  donation_link: http://www.hounslowmasjid.co.uk/20/donations
+  image: https://pbs.twimg.com/profile_images/1242172535413911555/BJleoH0H.jpg
+  description: |
+    Hounslow Jamia Masjid & Islamic Centre is the largest purpose built Mosque in West London. 
+
+
